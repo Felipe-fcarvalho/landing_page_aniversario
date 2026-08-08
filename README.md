@@ -1,5 +1,7 @@
-# Ebac
-## Projeto de Landing page para um evento fictício.
+# Ebac - FullStack Designer
+
+## Projeto de Landing page para um evento fictício sobre o módulo 22 de Front-end
+
 1) Criar uma nova landing page no formato de evento considerando o que foi aprendido no módulo sobre a responsividade.
 2) Utilizar como tema a data do seu aniversário.
 
